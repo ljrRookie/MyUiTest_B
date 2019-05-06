@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyUiTest_B</string>
+
+    <string name="drag">点到我啦，可以滑动啦</string>
+
+    <string name="not_drag">要点到我才可以拖动</string>
+</resources>
